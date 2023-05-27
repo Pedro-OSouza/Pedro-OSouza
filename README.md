@@ -1,7 +1,7 @@
 - 👋 Olá, Eu me chamo Pedro de Souza
 - 👀 Tenho interesse no desenvolvimento web e na informática de forma geral
 - 🌱 Atualmente estou aprendendo Wordpress e Inglês
-- 📫 Entre em contato pelo LinkdIN ou pelo Instagram: 
+- 📫 Entre em contato pelo Linkdin ou pelo Instagram: 
 - Linkedin: https://www.linkedin.com/in/pedro-henrique-de-souza-tavares-29013b247
 - Instagram: https://instagram.com/pp_henrique1?igshid=MzNINGNkZWQ4Mg== 
 
