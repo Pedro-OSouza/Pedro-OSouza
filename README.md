@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm  Pedro de Souza from Brazil<br><br>- 🔭 I’m looking for working<br>- 📚 I'm currently learning React.js and React Native<br>- ⚡ In my free time I like to code little projects to practice, but i often forget to push it on github.</p>
+<p align="left">I'm  Pedro de Souza from Brazil<br><br>- 🔭 I’m looking for working and keep studying<br>- 📚 I'm currently learning React.js and React Native<br>- ⚡ In my free time I like to code little projects to practice, but i often forget to push it on github.</p>
 
 ###
 
