@@ -1,11 +1,11 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Pedro-OSouza/count.svg?"  />
-</div>
 
 ###
 
 <h2 align="left">Olá 👋! Eu me chamo Pedro de Souza,  Sou um Desenvolvedor Web, diretemente do Brasil.</h2>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Pedro-OSouza/count.svg?"  />
+</div>
 ###
 
 <br clear="both">
