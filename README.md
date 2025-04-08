@@ -53,7 +53,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/Pedro-OSouza/Pedro-OSouza/raw/main/img/img%201.webp"  />
+<img align="right" height="150" src="https://github.com/Pedro-OSouza/Pedro-OSouza/raw/main/img/img%201.webp"  />
 
 ###
 
