@@ -1,80 +1,76 @@
+<!-- Banner -->
+<h1 align="center">✨ Olá, Mundo! ✨</h1>
+<h2 align="center">Eu sou o Pedro de Souza 👨‍💻 | Front-end Developer & Estudante de Engenharia de Software</h2>
 
-###
+---
 
-<h2 align="left">Olá 👋! Eu me chamo Pedro de Souza,  Sou um Desenvolvedor Web, diretemente do Brasil.</h2>
-
+<!-- Gif de boas-vindas -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Pedro-OSouza/count.svg?"  />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
 </div>
 
+---
 
-<br clear="both">
+### 😎 Quem sou eu?
+- 🚀 Desenvolvedor Web apaixonado por transformar ideias em **interfaces incríveis**
+- 🎓 Estudante de **Engenharia de Software** na UEPA
+- 🐉 Criativo, curioso e sempre pronto para novos desafios
+- 🎮 Gamer de coração, mas também dev que vira madrugadas no código
+- 💡 Meu lema: *“Se não existe solução pronta, eu crio uma.”*  
 
+---
+
+### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-OSouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="131" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedro-OSouza&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="131" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-OSouza&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-OSouza&theme=tokyonight&hide_border=true&locale=pt-br" height="160"/>
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+### 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,python,html,css,bootstrap,git,github,figma,vscode,wordpress" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://github.com/Pedro-OSouza/Pedro-OSouza/raw/main/img/img%201.webp"  />
+### 🐉 Um pouco mais sobre mim
+> *"Eu não sou só um dev, sou um construtor de ideias."*  
 
-###
+- 💭 Gosto de imaginar sistemas como **mundos vivos**, cheios de lógica e conexões  
+- 🎨 Tenho apreço pelo design, mas **não abro mão da performance**  
+- 🛠️ Adoro criar **projetos pessoais** que misturam tecnologia com criatividade  
+- 📖 Estou sempre aprendendo novas linguagens e frameworks  
+- 🧩 Quando não estou codando, provavelmente estou:  
+  - Jogando 🎮  
+  - Lendo sobre mitologias 📚  
+  - Desenhando ou escrevendo ✍️  
+  - Ou simplesmente tomando café ☕  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+---
+
+### 🐲 Fun fact
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <p>Se eu fosse um animal, eu seria um <b>dragão</b>. Poderoso, criativo e protetor das minhas ideias 🔥🐉</p>
 </div>
 
-###
+---
 
-<p align="left"></p>
+### 📬 Onde me encontrar
+<p align="center">
+  <a href="https://devpedrodesouza.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-tavares-29013b247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-###
+---
 
-<p align="left"></p>
-
-###
-
-
-###
+### 🎉 Extra
+<div align="center">
+  <img src="https://github.com/Pedro-OSouza/Pedro-OSouza/raw/main/img/img%201.webp" width="200"/>
+  <br><br>
+  <i>"Keep coding, keep dreaming."</i> ✨
+</div>
