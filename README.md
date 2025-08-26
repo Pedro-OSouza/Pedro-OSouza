@@ -41,8 +41,8 @@
 - 📖 Estou sempre aprendendo novas linguagens e frameworks  
 - 🧩 Quando não estou codando, provavelmente estou:  
   - Jogando 🎮  
-  - Lendo sobre mitologias 📚  
-  - Desenhando ou escrevendo ✍️  
+  - Lendo novels📚  
+  - Escrevendo algo ✍️  
   - Ou simplesmente tomando café ☕  
 
 ---
