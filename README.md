@@ -1,5 +1,8 @@
 <!-- Banner -->
 <h1 align="center">✨ Olá, Mundo! ✨</h1>
+<div align="center">
+  <img src="./img/wellcome1.png" width="300" />
+</div>
 <h2 align="center">Eu sou o Pedro de Souza 👨‍💻 | Front-end Developer & Estudante de Engenharia de Software</h2>
 
 ---
