@@ -50,10 +50,8 @@
 
 ---
 
-### 🐲 Fun fact
 <div align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
-  <p>Se eu fosse um animal, eu seria um <b>dragão</b>. Poderoso, criativo e protetor das minhas ideias 🔥🐉</p>
 </div>
 
 ---
